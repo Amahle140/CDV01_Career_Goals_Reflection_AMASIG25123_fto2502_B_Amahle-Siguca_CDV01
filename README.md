@@ -1,19 +1,6 @@
 
 # Career Goals Reflection Template
 
-### Introduction to the Template
-
-This "Career Goals Reflection" template is designed to assist you in articulating and structuring your thoughts about your career aspirations. By using this template, you can clearly define your goals, understand your motivations, and outline the steps you plan to take to achieve these goals.
-
-### Instructions for Using the Template:
-
-- Take your time to thoughtfully respond to each section.
-- Be as specific and detailed as possible in your responses.
-- Remember, this is a living document. Revisit and update it regularly as your goals and circumstances evolve.
-- Use the insights gained from this reflection to guide your decision-making and actions in your professional development.
-
-By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
-
 ### Personal Information
 
 - **Name:Amahle Siguca**
@@ -129,12 +116,12 @@ My next step is to continue learning JavaScript, improving my GitHub workflow, a
 
 1. **Short-term Goals** (Next 1-2 years):
     
-Learn Git & GitHub for Collaboration (Next 1 Month)
+Learn Git & GitHub for Collaboration 
 Specific – Understand git commands, branches, merges, pull requests, and collaboration techniques.
  Measurable – Contribute to at least one open-source project and create 3 repositories with proper commits.
 Achievable – Follow structured tutorials, work on personal projects, and engage in a GitHub community.
 Relevant – Version control is essential for working in teams and managing code efficiently.
-Build & Deploy a Full-Stack Web App (Next 6 Months)
+Build & Deploy a Full-Stack Web App 
 Specific – Develop a simple full-stack application using HTML, CSS, JavaScript, Node.js, and a database.
  Measurable – Successfully complete and deploy the app on Heroku, Vercel, or Netlify.
  Achievable – Start with a small app (e.g., a task manager, note-taking app) and progressively enhance it.
@@ -166,16 +153,15 @@ I enjoy both design and logic, and full-stack development allows me to combine c
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
-    
-    - Complete structured JavaScript courses (ES6+, DOM, and async programming).
+ Finish studying in CodeSpace Academy  
  Build at least 3 small projects (e.g., to-do app, weather app, calculator).
- Solve 20+ coding challenges on platforms like LeetCode or CodeWars.
+ Solve 20+ coding challenges on platforms like Scrimba e or CodeWars.
  Read JavaScript documentation (MDN Web Docs) and practice daily.
 
 Resources & Support Needed:
 📌 Courses:
-JavaScript Algorithms and Data Structures (freeCodeCamp)
-JavaScript: Understanding the Weird Parts (Udemy)
+JavaScript Algorithms and Data Structures (CodeSpace Academy)
+JavaScript: Understanding the Weird Parts (CodeSpace)
  Practice:
 
 CodeWars, LeetCode, or HackerRank for JavaScript problems
@@ -201,14 +187,10 @@ To excel in web development, I must continuously improve both frontend and backe
  Web Security & Performance Optimization – Understand security best practices (e.g., CORS, HTTPS, XSS prevention).
 
 
-📌 Courses & Tutorials:
-
-Full-Stack Open by University of Helsinki 
-
 - Gaining Real-World Experience
 Hands-on experience is crucial to developing expertise and confidence in web development.
 
-🔹 Key Actions:
+🔹 Key Actions
  Contribute to Open-Source Projects – Gain exposure to collaborative coding and real-world best practices.
  Build a Portfolio of Real-World Projects – Showcase UI/UX design, responsive layouts
  Internships & Freelancing – Take on small projects to get practical experience.
@@ -249,8 +231,6 @@ As I progress, I want to transition into leadership roles, start a business, or 
  Resources for Career Growth:
  Books:
 
-The Pragmatic Programmer by Andrew Hunt
-The Lean Startup by Eric Ries
 
  Final Thought
 By following this structured preparation plan, I can systematically develop technical expertise, gain real-world experience, and position myself for long-term success in web development and beyond.
@@ -273,7 +253,7 @@ By following this structured preparation plan, I can systematically develop tech
  When I first started looking into web development, I was blown away by how much there was to learn—JavaScript, React, databases, GitHub, APIs… it was A LOT. Sometimes I feel like I don’t even know where to begin, and I worry about getting stuck in tutorial hell, where I just watch videos but never build anything on my own.
 
  How I’ll Overcome It:
- I’ll stick to a structured roadmap (The Odin Project, freeCodeCamp).
+ I’ll stick to a structured roadmap (Following LMS course and doing every challenge that is given)
  For every new concept, I’ll build a mini project instead of just watching videos.
  I’ll remind myself that I don’t need to know everything at once—it’s okay to learn step by step.
 
@@ -346,12 +326,5 @@ Consider pursuing further education, such as a graduate degree or specialized co
 
 
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
